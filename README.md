@@ -2,9 +2,6 @@
 
 MarketPulse AI is a real-time financial tracking dashboard that combines historical stock market data with live sentiment analysis. It consumes external APIs, processes nested data structures, and serves a dynamic, responsive UI.
 
-## 🚀 Live Demo
-*(Coming soon: I am deploying this to Vercel and Render shortly!)*
-
 ## 🛠️ Tech Stack
 * **Frontend:** React.js, Vite, Tailwind CSS v4, Recharts
 * **Backend:** Python, FastAPI, Uvicorn
